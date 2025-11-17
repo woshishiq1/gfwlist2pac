@@ -35,7 +35,7 @@ sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
 
 genpac \
 	--format pac \
-	--pac-proxy "SOCKS5 127.0.0.1:7890" \
+	--pac-proxy "SOCKS5 192.168.0.102:7890" \
 	--gfwlist-url "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
 	--user-rule-from user-rule.txt \
 	-o gfwlist_7890.pac
