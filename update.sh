@@ -26,8 +26,7 @@ wget -O gfwlist/gfwlist.txt https://raw.githubusercontent.com/gfwlist/gfwlist/ma
 
 genpac \
 	--format pac \
-#	--pac-proxy "SOCKS5 127.0.0.1:1081" \
-	--pac-proxy "HTTP 127.0.0.1:1081" \
+	--pac-proxy "SOCKS5 127.0.0.1:1081" \
 	--gfwlist-url "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
 	--user-rule-from user-rule.txt \
 	-o gfwlist_1081.pac
@@ -36,7 +35,6 @@ sed -e '3d' -i gfwlist_1081.pac # 删除带无用日期的注释
 
 genpac \
 	--format pac \
-#	--pac-proxy "SOCKS5 192.168.0.102:64321" \
 	--pac-proxy "HTTP 192.168.0.102:64321" \
 	--gfwlist-url "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt" \
 	--user-rule-from user-rule.txt \
