@@ -1,6 +1,5 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- */
 
 var proxy = 'SOCKS5 127.0.0.1:1081';
 var rules = [
