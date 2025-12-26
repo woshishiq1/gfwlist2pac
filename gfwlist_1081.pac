@@ -1,6 +1,5 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1081';
