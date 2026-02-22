@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-02-21 07:04:51
+ * GFWList Last-Modified: 2026-02-22 11:11:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3494,6 +3494,7 @@ var rules = [
             "topsy.com",
             "toptip.ca",
             "toptoon.net",
+            "tor.eff.org",
             "torguard.net",
             "torlock.com",
             "torproject.org",
@@ -3647,6 +3648,7 @@ var rules = [
             "underwoodammo.com",
             "unholyknight.com",
             "unirule.cloud",
+            "uniswap.org",
             "unknownspace.org",
             "unmineable.com",
             "unseen.is",
