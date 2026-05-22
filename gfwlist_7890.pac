@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-05-20 11:47:07
+ * GFWList Last-Modified: 2026-05-22 12:17:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -81,6 +81,7 @@ var rules = [
             "2047.one",
             "2049bbs.xyz",
             "233abc.com",
+            "24hbook.com",
             "24hrs.ca",
             "32red.com",
             "36rain.com",
@@ -2290,6 +2291,7 @@ var rules = [
             "martsangkagyuofficial.org",
             "marxist.net",
             "marxists.org",
+            "mas.to",
             "mash.to",
             "mastodon.cloud",
             "mastodon.host",
