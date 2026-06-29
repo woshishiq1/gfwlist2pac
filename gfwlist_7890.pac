@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-06-27 13:02:45
+ * GFWList Last-Modified: 2026-06-29 04:16:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1157,6 +1157,7 @@ var rules = [
             "expecthim.com",
             "expekt.com",
             "exploader.net",
+            "expressnews.com",
             "expressvpn.com",
             "exrates.me",
             "extmatrix.com",
