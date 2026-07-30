@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-07-27 03:36:40
+ * GFWList Last-Modified: 2026-07-30 07:56:33
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2249,6 +2249,7 @@ var rules = [
             "leonardo.ai",
             "lesoir.be",
             "letscorp.net",
+            "level-plus.net",
             "lexica.art",
             "lhakar.org",
             "li.taipei",
@@ -3865,6 +3866,7 @@ var rules = [
             "uyghurtribunal.com",
             "uygur.fc2web.com",
             "uymaarip.com",
+            "v.recipes",
             "v2.help",
             "v2.hysteria.network",
             "v2ex.com",
