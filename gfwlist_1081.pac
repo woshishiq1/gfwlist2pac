@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-08-06 08:35:22
+ * GFWList Last-Modified: 2026-08-09 12:59:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -184,6 +184,7 @@ var rules = [
             "agro.hk",
             "ai.dev",
             "ai.studio",
+            "aihub.top",
             "aiosearch.com",
             "aiph.net",
             "airconsole.com",
@@ -397,6 +398,7 @@ var rules = [
             "barnabu.co.uk",
             "bartender.dowjones.com",
             "barton.de",
+            "basemaps.arcgis.com",
             "bastillepost.com",
             "bayvoice.net",
             "bb-chat.tv",
@@ -1138,6 +1140,7 @@ var rules = [
             "eromangadouzin.com",
             "eromon.net",
             "esg.t91y.com",
+            "esim.redteago.com",
             "eslite.com",
             "esurance.com",
             "etherdelta.com",
@@ -1160,6 +1163,7 @@ var rules = [
             "expatshield.com",
             "expecthim.com",
             "expekt.com",
+            "experience.arcgis.com",
             "exploader.net",
             "expressnews.com",
             "expressvpn.com",
