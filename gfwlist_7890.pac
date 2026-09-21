@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-09-11 14:54:15
+ * GFWList Last-Modified: 2026-09-21 12:27:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -747,6 +747,7 @@ var rules = [
             "chinesegay.org",
             "chinesen.de",
             "chinesenews.net.au",
+            "chineseposters.net",
             "chineseradioseattle.com",
             "chineseupress.com",
             "chingcheong.com",
@@ -2664,6 +2665,7 @@ var rules = [
             "nordstromrack.com",
             "nordvpn.com",
             "nos.nl",
+            "note.com",
             "notepad-plus-plus.org",
             "nottinghampost.com",
             "now.com",
