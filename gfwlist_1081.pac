@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2026-10-24 15:33:57
+ * GFWList Last-Modified: 2026-10-30 05:24:27
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -259,6 +259,7 @@ var rules = [
             "anonfiles.com",
             "anonymouse.org",
             "anthonycalzadilla.com",
+            "anthropic.auth0.com",
             "anthropic.com",
             "antiwave.net",
             "antpool.com",
@@ -566,6 +567,7 @@ var rules = [
             "brookings.edu",
             "brutaltgp.com",
             "bsky.app",
+            "bsky.chat",
             "bsky.network",
             "bsky.social",
             "bt4g.org",
@@ -791,7 +793,10 @@ var rules = [
             "clashyun.com",
             "classicalguitarblog.net",
             "claude.ai",
+            "claude.app",
             "claude.com",
+            "claudemcpcontent.com",
+            "claudeusercontent.com",
             "cldr.unicode.org",
             "clearsurance.com",
             "clementine-player.org",
